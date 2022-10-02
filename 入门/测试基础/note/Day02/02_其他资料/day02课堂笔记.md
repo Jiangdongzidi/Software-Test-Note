@@ -152,7 +152,7 @@
 
 - 判定表
   
-  ![image-20211024152653900](img/image-20211024152653900.png)
+  ![](E:\Learn\note\software_test_note\software_test_img\2022-09-30-10-06-13-image.png)
 
 - 用例
   
@@ -209,7 +209,21 @@
 3、其他工具：Excel
 ```
 
-#### 4.2 案例（ATM）
+流程图练习
+
+![](E:\Learn\note\software_test_note\software_test_img\2022-09-30-10-37-25-image.png)
+
+<img title="" src="file:///E:/Learn/note/software_test_note/software_test_img/2022-09-30-10-39-06-image.png" alt="" width="157" data-align="center">
+
+![](E:\Learn\note\software_test_note\software_test_img\2022-09-30-10-37-45-image.png)
+
+<img title="" src="file:///E:/Learn/note/software_test_note/software_test_img/2022-09-30-10-40-20-image.png" alt="" width="133" data-align="center">
+
+#### 4.2 场景法
+
+##### 案例（ATM取款机流程）
+
+![](E:\Learn\note\software_test_note\software_test_img\2022-09-30-10-42-38-image.png)
 
 - 流程图
   
